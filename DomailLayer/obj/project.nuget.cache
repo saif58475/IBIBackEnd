@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJ8rbGfrYIFzgGP85xDg/rZlM7w6iAnPJmf8/kNyrBPHuGyKpfgaPYL8L4Qq1vTTufaIYHkRZUZfIaJCb3tNfQ==",
+  "success": true,
+  "projectFilePath": "F:\\IBI-BackEndProject\\IBIBackEnd\\DomailLayer\\DomailLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

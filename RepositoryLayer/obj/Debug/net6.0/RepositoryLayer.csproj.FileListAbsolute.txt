@@ -1,0 +1,17 @@
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\bin\Debug\net6.0\DomailLayer.dll
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\bin\Debug\net6.0\DomailLayer.pdb
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+F:\IBI-BackEndProject\IBIBackEnd\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll

@@ -1,0 +1,12 @@
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\bin\Debug\net6.0\DomailLayer.deps.json
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\bin\Debug\net6.0\DomailLayer.dll
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\bin\Debug\net6.0\DomailLayer.pdb
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\DomailLayer.csproj.AssemblyReference.cache
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\DomailLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\DomailLayer.AssemblyInfoInputs.cache
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\DomailLayer.AssemblyInfo.cs
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\DomailLayer.csproj.CoreCompileInputs.cache
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\DomailLayer.dll
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\refint\DomailLayer.dll
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\DomailLayer.pdb
+F:\IBI-BackEndProject\IBIBackEnd\DomailLayer\obj\Debug\net6.0\ref\DomailLayer.dll
